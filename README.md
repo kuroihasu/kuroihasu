@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a mi perfil! 
 
-LLevo 10 años como Desarrollador y me apasiona todo lo relacionado con la tecnología.
+Llevo 10 años como Desarrollador y me apasiona todo lo relacionado con la tecnología.
 
 ## 🌱 Sobre mí
 
